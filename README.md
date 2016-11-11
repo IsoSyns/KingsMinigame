@@ -1,7 +1,7 @@
 KingsMinigame
 =======
 
-KingsMinigame is a Minigame I've been writing for a server, Minecraft Party Zone.
+KingsMinigame is a Minigame I've been writing for a server, Minecraft Dieter.
 
 It is thoroughly tested on an Offline-Mode server, so you can bet it's rock solid and feather light!
 
