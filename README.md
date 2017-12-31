@@ -1,4 +1,4 @@
-KingsMinigame
+KingsMinigame - BadEntities
 =======
 
 KingsMinigame is a Minigame I've been writing for a server, Minecraft Dieter.
